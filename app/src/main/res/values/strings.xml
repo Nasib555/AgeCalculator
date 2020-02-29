@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="AppID">ca-app-pub-8657146302121356~7511778491</string>
+
+    <string name="banner">ca-app-pub-8657146302121356/8217042422</string>
+    <!--<string name="banner">ca-app-pub-3940256099942544/6300978111</string>-->
+</resources>
